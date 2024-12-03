@@ -1,0 +1,2 @@
+# SymptoCare-Machine-Learning-Based-Disease-Prediction-and-Recommendation-System
+SymptoCare is a machine learning-based system that predicts diseases from symptoms and provides personalized recommendations, including medications, diet plans, precautions, and workouts. It’s designed for emergency situations where quick, accurate information is crucial for effective decision-making and health management.
