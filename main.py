@@ -44,28 +44,7 @@ def helper(dis):
 
     return desc,pre,med,diett,wrkout
 
-# image_url = "https://plus.unsplash.com/premium_photo-1668487826871-2f2cac23ad56?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVkaWNpbmV8ZW58MHx8MHx8fDA%3D"
-# st.markdown(
-#     f"""
-#     <style>
-#     .stApp {{
-#         background: url("{image_url}") no-repeat center center fixed;
-#         background-size: cover;
-#     }}
-#     .stApp::before {{
-#         content: "";
-#         position: absolute;
-#         top: 0;
-#         left: 0;
-#         right: 0;
-#         bottom: 0;
-#         background-color: rgba(255, 255, 255, 0.9); /* Add a transparent layer */
-#         z-index: -1;
-#     }}
-#     </style>
-#     """,
-#     unsafe_allow_html=True
-# )
+
 st.title(":blue[Medication Recommendation System]")
 st.write("")
 st.image('medicineimg.jpeg',width=700)
