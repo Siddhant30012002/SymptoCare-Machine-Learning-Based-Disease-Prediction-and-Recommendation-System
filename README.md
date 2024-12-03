@@ -1,9 +1,6 @@
 # SymptoCare-Machine-Learning-Based-Disease-Prediction-and-Recommendation-System
 SymptoCare is a machine learning-based system that predicts diseases from symptoms and provides personalized recommendations, including medications, diet plans, precautions, and workouts. It’s designed for emergency situations where quick, accurate information is crucial for effective decision-making and health management.
 
-## Overview
-The **Medicine Recommendation System** is designed to provide personalized recommendations for medicines, diets, precautions, and workouts based on the user's symptoms. This project aims to assist users in managing their health by leveraging machine learning techniques to predict suitable remedies and lifestyle adjustments.
-
 ## Project Features:
 - **Symptoms Input**: Users input their symptoms, and the system predicts the related disease and provides corresponding medication, diet, precautions, and workout suggestions.
 - **Personalized Recommendations**: The system offers tailored suggestions based on symptoms to support health management.
