@@ -22,8 +22,17 @@ The **Medicine Recommendation System** is designed to provide personalized recom
 - **Pickle** for saving the trained model
 - **streamlit** for the user friendly frontend
 
+## Model Details:
+- The model was developed and trained by me using a dataset containing symptom-related features.
+- Hyperparameter tuning was performed to ensure high prediction accuracy.
+- The trained model is saved as a pickle file (svc_rbf_2.pkl), allowing easy integration into other applications or systems.
+
+##  Contact:
+
+- Feel free to reach out for any questions or suggestions!
+
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/Siddhant30012002/SymptoCare-Machine-Learning-Based-Disease-Prediction-and-Recommendation-System)
 
